@@ -3,14 +3,14 @@
 Meus algoritmos para os desafios propostos pela RoboForge :)
 ---
 ## Índice de Projetos
-1. [Nivel 0 - FizzBuzz](#1-fizzbuzz-fizzbuzzpy)
-2. [Nível 1 - Verificador de Primos](#2-verificador-de-primos-ehprimopy)
-3. [Nível 2 - Analisador de Triângulos](#3-analisador-de-triângulos-triangulospy)
-4. [Nível 3 - Manipulador de Listas](#4-manipulador-de-listas-listatipopy)
+1. [Nivel 0 - FizzBuzz](#nivel-0-fizzbuzz-fizzbuzzpy)
+2. [Nível 1 - Verificador de Primos](#nivel-1-verificador-de-primos-ehprimopy)
+3. [Nível 2 - Analisador de Triângulos](#nivel-2-analisador-de-triângulos-triangulospy)
+4. [Nível 3 - Manipulador de Listas](#nivel-3-manipulador-de-listas-listatipopy)
    
 ---
 
-## 1. FizzBuzz (`fizzBuzz.py`)
+## Nivel 0 - FizzBuzz (`fizzBuzz.py`)
 [Acesso direto ao .py](https://github.com/sthecss/desafio-roboforge/blob/main/nivel0/fizzBuzz.py) 
 
 Implementação do desafio FizzBuzz com teste interativo:
@@ -23,7 +23,7 @@ Implementação do desafio FizzBuzz com teste interativo:
 
 ---
 
-## 2. Verificador de Primos (`ehPrimo.py`)
+## Nível 1 - Verificador de Primos (`ehPrimo.py`)
 [Acesso direto ao .py](https://github.com/sthecss/desafio-roboforge/blob/main/nivel1/ehPrimo.py) 
 
 Analisador completo de números primos:
@@ -34,7 +34,7 @@ Analisador completo de números primos:
   
 ---
 
-## 3. Analisador de Triângulos (`triangulos.py`)
+## Nível 2 - Analisador de Triângulos (`triangulos.py`)
 [Acesso direto ao .py](https://github.com/sthecss/desafio-roboforge/blob/main/nivel2/triangulos.py) 
 
 Calculadora geométrica avançada:
@@ -48,7 +48,7 @@ Calculadora geométrica avançada:
 
 ---
 
-## 4. Manipulador de Listas (`listaTipo.py`)
+## Nível 3 - Manipulador de Listas (`listaTipo.py`)
 [Acesso direto ao .py](https://github.com/sthecss/desafio-roboforge/blob/main/nivel3/listaTipo.py) 
 
 Sistema de tipos dinâmicos:
